@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheAbyssHelper", "TheAbyssHelper.vcxproj", "{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Debug|x64.ActiveCfg = Debug|x64
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Debug|x64.Build.0 = Debug|x64
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Debug|x86.Build.0 = Debug|Win32
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Release|x64.ActiveCfg = Release|x64
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Release|x64.Build.0 = Release|x64
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Release|x86.ActiveCfg = Release|Win32
+		{BA0821C5-6A4E-4453-B8F5-E947CC8685F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806BDA19-BDE9-4CAC-8F80-5359C684F53D}
+	EndGlobalSection
+EndGlobal
